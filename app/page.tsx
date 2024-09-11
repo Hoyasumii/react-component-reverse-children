@@ -7,7 +7,7 @@ export default function Home() {
       <p>2</p>
       <p>3</p>
       <p>4</p>
-      <p key={"5"}>5</p>
+      <p>5</p>
     </Reverse>
   );
 }
